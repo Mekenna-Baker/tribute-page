@@ -1,0 +1,108 @@
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    border: 5px solid red;
+
+}
+
+body {
+    background-image: url(https://external-preview.redd.it/Ff62GGStLk2RFFR9EMrNChZidgMWaAU8l5wEz-EUlG8.png?format=pjpg&auto=webp&s=d01bfc528f6dcd2e94ea41fa35222d258ece95b8);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+p {
+    text-align: center;
+}
+
+ul>li {
+    padding: 5px;
+    text-align: center;
+    line-height: 1.5;
+    text-align: justify;
+    margin-right: 15%;
+    block-size: fit-content;
+    width: fit-content;
+}
+
+h1 {
+    border: 5px solid red;
+    background-color: yellow;
+    color: red;
+    text-align: center;
+
+}
+
+h3 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+
+#img-div>#image {
+    display: block;
+    margin: 20px auto;
+    width: 30%;
+    max-width: 100%;
+    height: auto;
+}
+
+#title {
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    margin-left: 37%;
+}
+
+#img-caption {
+    padding: 15px;
+    text-align: center;
+    background-color: #eed676;
+    border: 5px solid red;
+    display: flex;
+    justify-content: center;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+
+
+
+.facts-info {
+    margin: 15px 35% 15px 35%;
+    background-color: #eed676;
+    border: 5px solid red;
+}
+
+
+.description {
+    background-color: #eed676;
+    border: 5px solid red;
+    margin: 15px 35% 15px 35%;
+
+
+}
+
+.show-description {
+    text-align: justify;
+    line-height: 150%
+}
+
+
+footer {
+    background-color: #eed676;
+    border: 5px solid red;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+.wikipedia {
+    display: flex;
+    margin-left: 45%;
+    border: none;
+    padding-top: 3%;
+}
